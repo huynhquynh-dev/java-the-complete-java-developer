@@ -1,6 +1,6 @@
 const person = {
-  name: "Max",
-  age: 36,
+    name: "Max",
+    age: 36,
 };
 
 // Copy object
